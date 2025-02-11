@@ -1,2 +1,8 @@
+streamlit
+transformers
+torch
+sentencepiece
+protobuf
+numpy
 pandas
-matplotlib
+scipy
