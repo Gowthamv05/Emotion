@@ -1,3 +1,2 @@
-warnings
-transformers
-streamlit
+pandas
+matplotlib
